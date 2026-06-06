@@ -43,5 +43,5 @@ A Python game project demonstrating interactive controls, collision detection, a
 - Machine Learning and Computer Vision
 
 ## 📫 Connect with me
-- LinkedIn: [add your LinkedIn link here](https://www.linkedin.com/in/md-fakhrul-abedin-shohrub-095b39383/?skipRedirect=true)
+- LinkedIn: [Md. Fakhrul Abedin Shohrub](https://www.linkedin.com/in/md-fakhrul-abedin-shohrub-095b39383/?skipRedirect=true)
 - Email: fa04abedin@gmail.com
